@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  CompitoCppBase(11).cpp
+c:\users\languasco giustino\documents\visual studio 2015\projects\compitocppbase\compitocppbase(11)\compitocppbase(11).cpp(25): warning C4244: 'argomento': conversione da 'double' a 'int'. Possibile perdita di dati.
+  CompitoCppBase(11).vcxproj -> C:\Users\Languasco Giustino\Documents\Visual Studio 2015\Projects\CompitoCppBase\CompitoCppBase(1_2)\Debug\CompitoCppBase(11).exe

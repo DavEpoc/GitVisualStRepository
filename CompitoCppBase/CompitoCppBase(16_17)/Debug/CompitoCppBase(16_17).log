@@ -1,0 +1,5 @@
+﻿  CompitoCppBase(16_17)Main.cpp
+  CompitoBaseCpp(16_17)MyTree_DeleteTree.cpp
+  Generazione del codice in corso...
+c:\users\languasco giustino\documents\visual studio 2015\projects\compitocppbase\compitocppbase(16_17)\compitobasecpp(16_17)mytree_deletetree.cpp(87): warning C4715: 'BinaryTree::getRoot': non tutti i percorsi di controllo restituiscono un valore
+  CompitoCppBase(16_17).vcxproj -> C:\Users\Languasco Giustino\Documents\Visual Studio 2015\Projects\CompitoCppBase\Debug\CompitoCppBase(16_17).exe
